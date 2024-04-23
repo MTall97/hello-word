@@ -1,2 +1,3 @@
 # hello-word
-###first repository python file
+first repository "hello word" in several language
+
