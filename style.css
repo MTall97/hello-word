@@ -1,0 +1,16 @@
+* {
+    background-color: antiquewhite;
+}
+
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.text {
+    font-size: 101px;
+}
